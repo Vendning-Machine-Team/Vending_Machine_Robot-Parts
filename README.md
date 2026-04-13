@@ -1,6 +1,6 @@
 ![Final Robot Assembly](images/assembly_V2.webp)
 
-# Vending Machine Robot - Team Engineering
+# Vending Machine Robot - Engineering Team
 ### By [Ryler Collins](https://www.linkedin.com/in/ryler-collins-87230a336/), [Victoria Adams](https://www.linkedin.com/in/victoria-adams-9b43b93ba/), [Anthony Nguyen](https://www.linkedin.com/in/anthony-nguyen-962b7935b/), and [Matthew Beck](https://www.linkedin.com/in/matthewthomasbeck/)
 
 **Please consider:** if you like it, **star it!**
