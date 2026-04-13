@@ -6,7 +6,7 @@
 **Please consider:** if you like it, **star it!**
 
 ## Design Requirements / Specifications
-- **Deadline:** January 19th, 2026, to April 19th, 2026 *(3 months)*
+- **Timeframe:** January 19th, 2026, to April 19th, 2026 *(3 months)*
 - **Work Hours:** 138.25 man-hours *(around 34 hours per member)*
 - **Total Mass:** *TBD*
 - **Target Payload:** *TBD*
