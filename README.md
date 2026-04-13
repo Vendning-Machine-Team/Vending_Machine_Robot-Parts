@@ -43,4 +43,4 @@
 
 - **3D Printer Problems:** Over the course of printing, the 3D-printer broke twice: the extruder badly jammed and the plate was out of calibration, both problems involving the disassembly of the machine to fix it at late hours to ensure the project remained on-schedule. Beyond that, there were classical 3D printing problems such as adjusting infill percentages, print speeds, extruder/plate temperatures, brims, rafts, and print orientations.
 
-- **Welding Thin-Gauge Steel:** Welding such a thin-gauge of steel meant that each weld had to be done with the precise voltage, feed rate, and weld-times; any discrepancy would mean catastrophic burn-throughs.
+- **Welding Thin-Gauge Steel:** Welding such a thin gauge of steel meant that each weld had to be done with the precise voltage, feed rate, and weld-times; any discrepancy would mean catastrophic burn-throughs.
