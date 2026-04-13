@@ -5,7 +5,7 @@
 
 **Please consider:** if you like it, **star it!**
 
-## Design Requirements / Specifications
+## Schedule / Constraints
 - **Timeframe:** January 19th, 2026, to April 19th, 2026 *(3 months)*
 - **Work Hours:** 138.25 man-hours *(around 34 hours per member)*
 - **Total Mass:** *TBD*
@@ -39,16 +39,15 @@
 - Electrical System Designer *(designed electrical system and taught others basic electrical safety, diagraming, wiring, and soldering)*
 
 ## Engineering Challenges
-- **TODO:** Add more challenges that have more to do with design and less to do with fabrication
 
-- **Cardboard Robot:** In order to get a working system to the AI / Robotic Behavior team with as much time as possible, we had to come up with a speedy solution that would be representative of our actual robot; we devised a carboard robot that structurally was very similar to our desired end-product.
+- **Cardboard Robot:** In order to get a working system to the [AI / Robotic Behavior](https://github.com/Vendning-Machine-Team/Vending_Machine_Robot-Hardware) team with as much time as possible, we had to come up with a speedy solution that would be representative of our actual robot; we devised a carboard robot that structurally was very similar to our desired end-product.
 
 <p align="center">
   <img src="images/cardboard_robot-1.jpg" width="49%" alt="Cardboard robot isometric view" />
   <img src="images/cardboard_robot-2.jpg" width="49%" alt="Cardboard robot front view" />
 </p>
 
-- **Designing The Electrical System:** The electrical system brought several challenges: different devices requiring different voltages, heating concerns, and evolutionary-capability. Some electrical parts were behind shipment schedule, so we had to ensure the system could run for the AI / Robotic Behavior team, while also being able to accomodate parts down the line.
+- **Designing The Electrical System:** The electrical system brought several challenges: different devices requiring different voltages, heating concerns, and evolutionary-capability. Some electrical parts were behind shipment schedule, so we had to ensure the system could run for the [AI / Robotic Behavior](https://github.com/Vendning-Machine-Team/Vending_Machine_Robot-Hardware team, while also being able to accomodate parts down the line.
 
 <p align="center">
   <img src="images/electrical_diagram.jpg" width="49%" alt="Electrical diagram" />
