@@ -41,6 +41,18 @@
 ## Engineering Challenges
 - **TODO:** Add more challenges that have more to do with design and less to do with fabrication
 
+- **Cardboard Robot:** In order to get a working system to the AI / Robotic Behavior team with as much time as possible, we had to come up with a speedy solution that would be representative of our actual robot; we devised a carboard robot that structurally was very similar to our desired end-product.
+
+![Isometric](images/cardboard_robot-1.jpg) ![Front](images/cardboard_robot-2.jpg)
+
+- **Designing The Electrical System:** The electrical system brought several challenges: different devices requiring different voltages, heating concerns, and evolutionary-capability. Some electrical parts were behind shipment schedule, so we had to ensure the system could run for the AI / Robotic Behavior team, while also being able to accomodate parts down the line.
+
+![Electrical Diagram](images/electrical_diagram.jpg) ![Electrical System](images/electrical_system.jpg)
+
 - **3D Printer Problems:** Over the course of printing, the 3D-printer broke twice: the extruder badly jammed and the plate was out of calibration, both problems involving the disassembly of the machine to fix it at late hours to ensure the project remained on-schedule. Beyond that, there were classical 3D printing problems such as adjusting infill percentages, print speeds, extruder/plate temperatures, brims, rafts, and print orientations.
 
+![Broken Printer](images/broken_printer.jpg) ![Failed Prints](images/failed_prints.jpg)
+
 - **Welding Thin-Gauge Steel:** Welding such a thin gauge of steel meant that each weld had to be done with the precise voltage, feed rate, and weld-times; any discrepancy would mean catastrophic burn-throughs.
+
+![Cut Parts](images/cut_parts.jpg) ![Welded Chassis](images/welded_chassis.jpg)
