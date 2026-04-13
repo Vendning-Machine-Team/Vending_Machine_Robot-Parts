@@ -34,7 +34,7 @@
 - Mechanical Engineer *(designed wheels and lid-lifting assembly)*
 - Electrical System Assembler *(soldered and assembled electrical system)*
 
-**Matthew Beck:**
+**[Matthew Beck](https://github.com/matthewthomasbeck):**
 - Parts Manufacterer *(cut/welded chassis and oversaw operation and repair of 3D printer)*
 - Electrical System Designer *(designed electrical system and taught others basic electrical safety, diagraming, wiring, and soldering)*
 
