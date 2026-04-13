@@ -6,14 +6,14 @@
 **Please consider:** if you like it, **star it!**
 
 ## Design Requirements / Specifications
-- **Deadline:** *January 19th, 2026, to April 19th, 2026 (3 months)*
-- **Work Hours:** *138.25 man-hours (around 34 hours per member)*
+- **Deadline:** January 19th, 2026, to April 19th, 2026 *(3 months)*
+- **Work Hours:** 138.25 man-hours *(around 34 hours per member)*
 - **Total Mass:** *TBD*
 - **Target Payload:** *TBD*
 
 ## Tools
-- **Software:** *Solidworks, Fusion*
-- **Manufacturing:** *Welding (MIG), 3D Printing, Soldering*
+- **Software:** Solidworks, Fusion
+- **Manufacturing:** Welding *(MIG)*, 3D Printing, Soldering
 
 ## Materials
 - **24-Gauge Mild Steel:** Chosen as the chassis material for its strength under flexural load and speed of fabrication
