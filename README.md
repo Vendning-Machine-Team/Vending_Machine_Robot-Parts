@@ -47,7 +47,7 @@
   <img src="images/cardboard_robot-2.jpg" width="49%" alt="Cardboard robot front view" />
 </p>
 
-- **Designing The Electrical System:** The electrical system brought several challenges: different devices requiring different voltages, heating concerns, and evolutionary-capability. Some electrical parts were behind shipment schedule, so we had to ensure the system could run for the [AI / Robotic Behavior](https://github.com/Vendning-Machine-Team/Vending_Machine_Robot-Hardware team, while also being able to accomodate parts down the line.
+- **Designing The Electrical System:** The electrical system brought several challenges: different devices requiring different voltages, heating concerns, and evolutionary-capability. Some electrical parts were behind shipment schedule, so we had to ensure the system could run for the [AI / Robotic Behavior](https://github.com/Vendning-Machine-Team/Vending_Machine_Robot-Hardware) team, while also being able to accomodate parts down the line.
 
 <p align="center">
   <img src="images/electrical_diagram.jpg" width="49%" alt="Electrical diagram" />
