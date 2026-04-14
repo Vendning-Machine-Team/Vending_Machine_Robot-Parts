@@ -14,6 +14,7 @@
 ## Tools
 - **Software:** Solidworks, Fusion
 - **Manufacturing:** Welding *(MIG)*, 3D Printing, Soldering
+- **Hardware:** M3 and M8 Bolts *(used to supplement the strength of PLA with metal)*
 
 ## Materials
 - **24-Gauge Mild Steel:** Chosen as the chassis material for its strength under flexural load and speed of fabrication
@@ -40,6 +41,8 @@
 
 ## Engineering Challenges
 
+- **Structural Limitations of PLA:** While 3D printing enabled low-cost and rapid manufacturing, PLA has relatively low strength, and some components experienced shearing or deformation under load. To address this, higher infill percentages were used for high-stress components, and stress concentrations were reduced by incorporating rounded geometries and fillets into the design.
+
 - **Cardboard Robot:** In order to get a working system to the [AI / Robotic Behavior](https://github.com/Vendning-Machine-Team/Vending_Machine_Robot-Hardware) team with as much time as possible, we had to come up with a speedy solution that would be representative of our actual robot; we devised a carboard robot that structurally was very similar to our desired end-product.
 
 <p align="center">
@@ -53,6 +56,8 @@
   <img src="images/electrical_diagram.jpg" width="49%" alt="Electrical diagram" />
   <img src="images/electrical_system.jpg" width="49%" alt="Electrical system layout" />
 </p>
+
+- **Manufacturing Limitations:** One challenge encountered was managing manufacturing limitations due to 3D printing. The time required to produce parts slowed down iteration cycles, requiring careful planning of design changes. To address this, components were prioritized and optimized to reduce print time while maintaining functionality.
 
 - **3D Printer Problems:** Over the course of printing, the 3D-printer broke twice: the extruder badly jammed and the plate was out of calibration, both problems involving the disassembly of the machine to fix it at late hours to ensure the project remained on-schedule. Beyond that, there were classical 3D printing problems such as adjusting infill percentages, print speeds, extruder/plate temperatures, brims, rafts, and print orientations.
 
