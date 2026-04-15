@@ -1,15 +1,13 @@
 ![Final Robot Assembly](images/assembly_V2.webp)
 
 # [Vending Machine Robot](https://github.com/orgs/Vendning-Machine-Team/repositories) - Engineering Team
-### By [Ryler Collins](https://www.linkedin.com/in/ryler-collins-87230a336/), [Victoria Adams](https://www.linkedin.com/in/victoria-adams-9b43b93ba/), [Anthony Nguyen](https://www.linkedin.com/in/anthony-nguyen-962b7935b/), and [Matthew Beck](https://www.linkedin.com/in/matthewthomasbeck/)
+### By Ryler Collins, Victoria Adams, Anthony Nguyen, and Matthew Beck
 
 **Please consider:** if you like it, **star it!**
 
-## Schedule / Constraints
+## Schedule
 - **Timeframe:** January 19th, 2026, to April 19th, 2026 *(3 months)*
 - **Work Hours:** 138.25 man-hours *(around 34 hours per member)*
-- **Total Mass:** *TBD*
-- **Target Payload:** *TBD*
 
 ## Tools
 - **Software:** Solidworks, Fusion
@@ -22,20 +20,20 @@
 - **3D-Printed TPU:** Chosen as the mecanum wheel roller material for its elastic damping properties, low cost, and ease of fabrication
 
 ## Roles
-**Ryler Collins:**
+**Ryler Collins ([LinkedIn](https://www.linkedin.com/in/ryler-collins-87230a336/)):**
 - Chief Design Authority *(oversaw the design and sign-off of parts and taught new engineers solidworks and good design principles)*
 - Mechanical Engineer *(designed chassis)*
 - Chief Robot Assembler *(assembled primary robot body and wheel assemblies)*
 
-**Anthony Nguyen:**
+**Anthony Nguyen ([LinkedIn](https://www.linkedin.com/in/anthony-nguyen-962b7935b/)):**
 - Mechanical Engineer *(designed wheel mounts and electronic mounts)*
 - Robot Assembler *(assembled mecanum wheels)*
 
-**Victoria Adams:**
+**Victoria Adams ([LinkedIn](https://www.linkedin.com/in/victoria-adams-9b43b93ba/)):**
 - Mechanical Engineer *(designed wheels and lid-lifting assembly)*
 - Electrical System Assembler *(soldered and assembled electrical system)*
 
-**[Matthew Beck](https://github.com/matthewthomasbeck):**
+**Matthew Beck ([LinkedIn](https://www.linkedin.com/in/matthewthomasbeck/)|[GitHub](https://github.com/matthewthomasbeck)):**
 - Parts Manufacterer *(cut/welded chassis and oversaw operation and repair of 3D printer)*
 - Electrical System Designer *(designed electrical system and taught others basic electrical safety, diagraming, wiring, and soldering)*
 
