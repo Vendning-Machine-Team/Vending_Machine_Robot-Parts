@@ -20,19 +20,31 @@
 - **3D-Printed TPU:** Chosen as the mecanum wheel roller material for its elastic damping properties, low cost, and ease of fabrication
 
 ## Roles
+<p align="center">
+  <img src="images/ryler.jpg" width="20%" alt="Ryler Collins" />
+</p>
 **Ryler Collins ([LinkedIn](https://www.linkedin.com/in/ryler-collins-87230a336/)):**
 - Chief Design Authority *(oversaw the design and sign-off of parts and taught new engineers solidworks and good design principles)*
 - Mechanical Engineer *(designed chassis)*
 - Chief Robot Assembler *(assembled primary robot body and wheel assemblies)*
 
+<p align="center">
+  <img src="images/anthony.jpg" width="20%" alt="Anthony Nguyen" />
+</p>
 **Anthony Nguyen ([LinkedIn](https://www.linkedin.com/in/anthony-nguyen-962b7935b/)):**
 - Mechanical Engineer *(designed wheel mounts and electronic mounts)*
 - Robot Assembler *(assembled mecanum wheels)*
 
+<p align="center">
+  <img src="images/victoria.jpg" width="20%" alt="Victoria Adams" />
+</p>
 **Victoria Adams ([LinkedIn](https://www.linkedin.com/in/victoria-adams-9b43b93ba/)):**
 - Mechanical Engineer *(designed wheels and lid-lifting assembly)*
 - Electrical System Assembler *(soldered and assembled electrical system)*
 
+<p align="center">
+  <img src="images/matthew.jpg" width="20%" alt="Matthew Beck" />
+</p>
 **Matthew Beck ([LinkedIn](https://www.linkedin.com/in/matthewthomasbeck/) | [GitHub](https://github.com/matthewthomasbeck) | [Website](https://www.matthewthomasbeck.com)):**
 - Parts Manufacterer *(cut/welded chassis and oversaw operation and repair of 3D printer)*
 - Electrical System Designer *(designed electrical system and taught others basic electrical safety, diagraming, wiring, and soldering)*
