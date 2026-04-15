@@ -33,7 +33,7 @@
   <img src="images/anthony.jpg" width="20%" alt="Anthony Nguyen" />
 </p>
 
-**Anthony Nguyen ([LinkedIn](https://www.linkedin.com/in/anthony-nguyen-962b7935b/)):**
+**Anthony Nguyen ([LinkedIn](https://www.linkedin.com/in/anthony-nguyen-962b7935b/) | [GitHub](https://github.com/anthonynguyen794-commits)):**
 - Mechanical Engineer *(designed wheel mounts and electronic mounts)*
 - Robot Assembler *(assembled mecanum wheels)*
 
@@ -41,7 +41,7 @@
   <img src="images/victoria.jpg" width="20%" alt="Victoria Adams" />
 </p>
 
-**Victoria Adams ([LinkedIn](https://www.linkedin.com/in/victoria-adams-9b43b93ba/)):**
+**Victoria Adams ([LinkedIn](https://www.linkedin.com/in/victoria-adams-9b43b93ba/) | [GitHub](https://github.com/Victoria-A29)):**
 - Mechanical Engineer *(designed wheels and lid-lifting assembly)*
 - Electrical System Assembler *(soldered and assembled electrical system)*
 
