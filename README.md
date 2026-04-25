@@ -1,5 +1,3 @@
-![Final Robot Assembly](images/assembly_V2.webp)
-
 <p align="center">
   <img src="images/final_robot.jpg" width="49%" alt="Final Robot" />
   <img src="images/assembly_V2.webp" width="49%" alt="Final Robot Assembly" />
