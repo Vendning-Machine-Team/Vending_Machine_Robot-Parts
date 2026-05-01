@@ -3,7 +3,7 @@
   <img src="images/assembly_V2.webp" width="49%" alt="Final Robot Assembly" />
 </p>
 
-# [Vending Machine Robot](https://github.com/orgs/Vendning-Machine-Team/repositories) - Engineering Team
+# [Vending Machine Robot](https://github.com/orgs/Vendning-Machine-Team) - Engineering Team
 ### By Ryler Collins, Victoria Adams, Anthony Nguyen, and Matthew Beck
 
 **Please consider:** if you like it, **star it!**
